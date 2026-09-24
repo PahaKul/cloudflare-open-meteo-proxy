@@ -5,7 +5,7 @@
 {
 	"name": "cloudflare-open-meteo-proxy",
 	"main": "src/worker.js",
-	"compatibility_date": "2026-09-21",
+	"compatibility_date": "2026-09-24",
 	"compatibility_flags": [
 		"nodejs_compat",
 		"global_fetch_strictly_public"
