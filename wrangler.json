@@ -3,7 +3,7 @@
  * https://developers.cloudflare.com/workers/wrangler/configuration/
  */
 {
-	"name": "cloudflare-open-meteo-proxy",
+	"name": "open-meteo",
 	"main": "src/worker.js",
 	"compatibility_date": "2026-09-24",
 	"compatibility_flags": [
